@@ -17,4 +17,3 @@ function DateIcon() {
 }
 
 export default DateIcon;
-

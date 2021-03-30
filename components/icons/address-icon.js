@@ -23,5 +23,3 @@ function AddressIcon() {
 }
 
 export default AddressIcon;
-
-
