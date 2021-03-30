@@ -13,7 +13,7 @@ const DUMMY_EVENTS = [
     id: 'e2',
     title: 'Networking for introverts',
     description:
-      " Hej, jag heter Björn. Jag är en Fullstack Developer och utvecklare av mjukvara. Du kan kontakta mig på twitter. We know: Networking is no  fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
+      " Hej, jag heter Björne einar. Jag är en Fullstack Developer och utvecklare av mjukvara. Du kan kontakta mig på twitter. We know: Networking is no  fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
     location: 'New Wall Street 5, 98765 New Work',
     date: '2021-05-30',
     image: 'images/introvert-event.jpg',
