@@ -39,15 +39,7 @@ const DUMMY_EVENTS = [
     image: 'images/hanna-teckning.jpg',
     isFeatured: true,
   },
-  {id: 'e5',
-    title: 'Programming for everyone',
-    description:
-      'You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.',
-    location: 'My Street 12, 10115 Broke City',
-    date: '2022-08-14',
-    image: 'images/coding-event.jpg',
-    isFeatured: true,
-  },
+  
   
 ];
 

@@ -16,7 +16,8 @@ function AllEventsPage() {
   }
 
   return (
-    <h1>Hejsan</h1>
+    <EventList items={events} />
+   
   );
     // <Fragment>
     //   <EventsSearch onSearch={findEventsHandler} />
