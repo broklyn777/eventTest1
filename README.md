@@ -22,7 +22,7 @@ git remote add origin https://github.com/broklyn777/eventTest1.git
 git push -u origin main
 git commit -m "first test"
 git commit -m "116"
-
+https://next-6df79-default-rtdb.europe-west1.firebasedatabase.app/events.json
 
 ## Getting Started
 
