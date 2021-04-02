@@ -12,7 +12,8 @@ git commit -m "73commit"
 git commit -m "Adding Buttons & Icons"
 git commit -m "Event Detail Page"
 
-
+echo "# eventTest1" >> README.md
+echo "# eventTest1" >> README.md
 echo "# eventTest1" >> README.md
 git init
 git add README.md
@@ -23,7 +24,10 @@ git push -u origin main
 git commit -m "first test"
 git commit -m "116"
 https://next-6df79-default-rtdb.europe-west1.firebasedatabase.app/events.json
-
+git commit -m "sec7a"
+git push origin sec7a
+git branch -M sec7-129
+git push origin sec7-129
 ## Getting Started
 
 First, run the development server:
